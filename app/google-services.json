@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "702987311032",
+    "project_id": "journal-app-62caa",
+    "storage_bucket": "journal-app-62caa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702987311032:android:7a7f764a12b4280493e14d",
+        "android_client_info": {
+          "package_name": "com.nigdroid.journal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvAuw_khJXdztg07Eot4v2_Q0Zc_wRUTo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

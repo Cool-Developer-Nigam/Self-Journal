@@ -12,7 +12,20 @@
           "package_name": "com.nigdroid.journal"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "702987311032-9d5hgnjagq9ttdn88hjvbgullk5mojgd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nigdroid.journal",
+            "certificate_hash": "d964045bdb678fb101baf0cf191dbaa4825578cb"
+          }
+        },
+        {
+          "client_id": "702987311032-400rvnu6v4ec3586394behosqc4p19rt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyDvAuw_khJXdztg07Eot4v2_Q0Zc_wRUTo"
@@ -20,7 +33,12 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "702987311032-400rvnu6v4ec3586394behosqc4p19rt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }
